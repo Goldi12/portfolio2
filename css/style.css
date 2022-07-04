@@ -1,0 +1,194 @@
+body{
+text-align: center;
+margin: 0;
+
+}
+
+.My-skill{
+  display: inline-block;
+}
+
+.laptop {
+  height: 40%;
+  width: 40%;
+}
+
+.picture {
+background-image: url('https://images.unsplash.com/photo-1504284992506-f6d82d0f2f2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80');
+
+  }
+
+h1 {
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+  margin: 0;
+  padding-top: 120px;
+  color: #F6EABE;
+  font-weight: lighter;
+}
+.program{
+  color: #14279B;
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  bottom: 30px;
+}
+
+.navbar {
+  position: fixed;
+  height: 70px;
+  width: 100%;
+  top: 0px;
+  botton: 0px;
+
+}
+
+.mypic {
+  height: 150px;
+  width: 150px;
+  padding-top: 60px;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #000D6B;
+  font-weight:700;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #89B5AF;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #C490E4;
+  font-weight: 600;
+}
+
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+}
+hr {
+  width: 5%;
+  border-style: dotted;
+  border-color: grey;
+  border-top-style: none;
+  border-width: 7px;
+}
+
+.bottom-container {
+  background-color: #161E54;
+  margin-bottom: 0px;
+  padding-top: 100px;
+}
+
+.lastname {
+  margin-bottom: 0px;
+}
+.gif{
+  height: 20%;
+  width: 20%;
+  position: relative;
+  bottom: 10px;
+}
+.program{
+  font-size: 2.4rem;
+}
+.bulb{
+  width: 8rem
+}
+.btn {
+  background: #0d2433;
+  background-image: -webkit-linear-gradient(top, #0d2433, #33759e);
+  background-image: -moz-linear-gradient(top, #0d2433, #33759e);
+  background-image: -ms-linear-gradient(top, #0d2433, #33759e);
+  background-image: -o-linear-gradient(top, #0d2433, #33759e);
+  background-image: linear-gradient(to bottom, #0d2433, #33759e);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 21px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #6112b5;
+  background-image: -webkit-linear-gradient(top, #6112b5, #074edb);
+  background-image: -moz-linear-gradient(top, #6112b5, #074edb);
+  background-image: -ms-linear-gradient(top, #6112b5, #074edb);
+  background-image: -o-linear-gradient(top, #6112b5, #074edb);
+  background-image: linear-gradient(to bottom, #6112b5, #074edb);
+  text-decoration: none;
+}
+.move{
+  position: relative;
+  bottom: 6px;
+}
+.girl{
+  width: 30%;
+  height: 30%;
+  position:relative;
+  right: 10%;
+}
+.boy{
+  width: 30%;
+  height: 30%;
+  position: relative;
+  left: 10%;}
+
+.bottom-container{
+  padding: 50px 0 20px;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+
+}
+.c:hover{
+  color: #A9F1DF;
+
+}
+.lastname{
+font-size: 10px;
+color: white;
+font-weight: 5;
+}
+.g{
+  color:  red;
+  margin: 0px 5px 0px 5px;
+  font-family: Larsseit-Bold,sans-serif;
+
+
+}
+
+.logost{
+  position: relative;
+  left: 25%;
+  top: 25%;
+}
+.photo{ margin-right: 80%;}
+
+.oo:hover{
+color: white;
+}
+.gamer{
+  width: 160px;
+  height: 160px;
+}
+.ll{
+font-size: 10px;
+}
